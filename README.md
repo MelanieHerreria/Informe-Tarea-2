@@ -209,8 +209,11 @@ https://www.youtube.com/watch?v=_zM-__Qgf2k
 
 **CONCLUSIONES**
 
+-En conclusión, con respecto a lo resumido mediante mapas conceptuales se puede decir que la ley de ohm describe la relación entre el voltaje, corriente y resistencia. La corriente y el voltaje son linealmente proporcionales y la corriente y la resistencia son inversamente proporcionales, mediante esto se puede encontrar la potencia. En cuanto a la energía es la capacidad de realizar trabajo y la potencia la velocidad en que se utiliza esa energía, se estudió como se utiliza la potencia especialmente en circuitos.
 
+-Se afianzo el contenido teórico, que se obtuvo mediante la lectura del capítulo 3 y 4, con la resolución de los ejercicios pares de cada capítulo, ya que cuando se realiza los ejercicios se demuestra.
 
+-En el video se explica la realización de 4 ejercicios y objetivo de solucionar los problemas, para comprender mejor.
 
 
 **BIBLIOGRAFIA**
